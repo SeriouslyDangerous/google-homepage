@@ -1,0 +1,9 @@
+#header_left {
+    display: inline;
+    margin-top: 50px;
+    justify-content: left;
+}
+#header_right {
+    margin-top: 50px;
+    text-align: right;
+}
